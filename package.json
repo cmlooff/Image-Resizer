@@ -1,0 +1,22 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "App to optimize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmlooff/Image-Resizer.git"
+  },
+  "author": "Christian Looff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmlooff/Image-Resizer/issues"
+  },
+  "homepage": "https://github.com/cmlooff/Image-Resizer#readme",
+  "devDependencies": {
+    "electron": "^21.0.0"
+  }
+}
